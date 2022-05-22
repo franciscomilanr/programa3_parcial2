@@ -7,11 +7,11 @@
  <br>
  <li><b> En este programa se muestra el uso de: </b></li>
  <ul>
-	 <li> Entrada de datos con scanf</li>
-	 <li> Salida de datos con printf </li>
-	<li>Libreria </li>
+ <li> Entrada de datos con scanf</li>
+ <li> Salida de datos con printf </li>
+<li>Libreria stdio </li>
   <li>Libreria matematica </li>
- 	<li>Definicion de maximo </li>
+ <li>Definicion de maximo </li>
   <li>Uso de switch case </li>
   <li>Funcion main </li>
   <li>Variables entero </li>
@@ -21,6 +21,7 @@
   <li> Funcion validar flotante </li>
   <li> Funcion validar entero </li>
   <li> Delimitacion de respuesta </li>
+<li> Prototipos de funciones </li>
  </ul>
 <br>
  <li> <b> Objetivo: </b> Crear un programa en C que utilizando funciones externas a main y datos ingesados calcule las faltas y promedio de un conjunto de 10alumnos.  </li>
